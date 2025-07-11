@@ -1,6 +1,6 @@
-###### r/fcporto Transfer Reliability
+# r/fcporto Transfer Reliability
 
-# Tiers:
+### Tiers:
 
 Tier 1: PortoYouth, RTP
 
@@ -17,7 +17,7 @@ Tier 5: CMTV, Now Canal, Vítor Pinto, Nuno Farinha
 ❌ Banidos: Luís Pinto Coelho; Bola na Rede; Nicolò Schira; Rudy Galetti; EkremKONUR; Michael Rincón; Jorge das Transferências; MarktGatekeeper; Mercado1893; Info Azul&Branca; Perry das Transferências; Pedro Almeida; Sacha Tavolieri; invictus; Dragão de Berço; Rúben Fernandes
 
 
-# Avaliação de rumores:
+### Avaliação de rumores:
 
     ✅ Confiável: Confirmado por fonte credível ou corroborado por mais do que uma
 

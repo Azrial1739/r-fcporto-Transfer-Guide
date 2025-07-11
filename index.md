@@ -25,7 +25,7 @@ title: My Page
 
 ___
 
-
+<br>
 
 ### Avaliação de rumores:<br>
 

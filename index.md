@@ -22,7 +22,7 @@ title: My Page
 
 
 **❌ Banidos:** Luís Pinto Coelho; Bola na Rede; Nicolò Schira; Rudy Galetti; EkremKONUR; Michael Rincón; Jorge das Transferências; MarktGatekeeper; Mercado1893; Info Azul&Branca; Perry das Transferências; Pedro Almeida; Sacha Tavolieri; invictus; Dragão de Berço; Rúben Fernandes 
-<br>
+<br> <br>
 ___
 <br>
 

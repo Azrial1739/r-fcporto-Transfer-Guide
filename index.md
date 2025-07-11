@@ -21,8 +21,8 @@ title: My Page
 **➕ Outros:** Geral (Fabrizio Romano, Matteo Moretto); Inglaterra (David Ornstein, Lyall Thomas); Itália (Di Marzio, Romeo Agresti); Alemanha (Plettigoal); França (Fabrice Hawkins, Santi Aouna); Argentina (German Garcia Grova); Brasil (Thiago Fernandes, André Hernan); Colômbia (Pipe Sierra); Suécia (Daniel Kristoffersson); Dinamarca (Farzam Abolhosseini); Países Baixos (Lentin Goodijk) <br>
 
 
-**❌ Banidos:** Luís Pinto Coelho; Bola na Rede; Nicolò Schira; Rudy Galetti; EkremKONUR; Michael Rincón; Jorge das Transferências; MarktGatekeeper; Mercado1893; Info Azul&Branca; Perry das Transferências; Pedro Almeida; Sacha Tavolieri; invictus; Dragão de Berço; Rúben Fernandes 
-<br> <br>
+**❌ Banidos:** Luís Pinto Coelho; Bola na Rede; Nicolò Schira; Rudy Galetti; EkremKONUR; Michael Rincón; Jorge das Transferências; MarktGatekeeper; Mercado1893; Info Azul&Branca; Perry das Transferências; Pedro Almeida; Sacha Tavolieri; invictus; Dragão de Berço; Rúben Fernandes <br><br>
+
 ___
 <br>
 

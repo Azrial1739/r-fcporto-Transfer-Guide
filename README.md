@@ -1,4 +1,3 @@
-# r/fcporto Transfer Reliability
 
 ### Tiers:
 

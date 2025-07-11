@@ -25,12 +25,12 @@ ___
 
 ### Avaliação de rumores:
 
-    ✅ Confiável: Confirmado por fonte credível ou corroborado por mais do que uma
+✅ Confiável: Confirmado por fonte credível ou corroborado por mais do que uma
 
-    🟡 Possível: Plausível, mas carece de confirmação
+🟡 Possível: Plausível, mas carece de confirmação
 
-    🟠 Suspeito: Fontes pouco confiáveis
+🟠 Suspeito: Fontes pouco confiáveis
 
-    🔴 Duvidoso: Forte indício de falsidade
+🔴 Duvidoso: Forte indício de falsidade
 
-    ❔ Desconhecido: Não avaliado ou credibilidade da fonte desconhecida
+❔ Desconhecido: Não avaliado ou credibilidade da fonte desconhecida

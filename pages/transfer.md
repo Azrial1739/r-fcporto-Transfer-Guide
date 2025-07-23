@@ -86,12 +86,12 @@ menu_title: transfer
 
 <div class="tier-section">
   <div class="tier-header">Tier 3</div>
-  <div class="tier-content centered">Mais Futebol/CNN, Record, SIC Notícias, Mais Exclusivo, Ben Fernandes Santos, Now Canal, Cabine Desportiva, A Bola</div>
+  <div class="tier-content centered">Mais Futebol/CNN, SIC Notícias, Mais Exclusivo, Ben Fernandes Santos, Now Canal, Cabine Desportiva, A Bola</div>
 </div>
 
 <div class="tier-section">
   <div class="tier-header">Tier 4</div>
-  <div class="tier-content centered">A Bola, José Manuel Ribeiro, Sebastião Sousa Pinto, Bruno Andrade</div>
+  <div class="tier-content centered">José Manuel Ribeiro, Sebastião Sousa Pinto, Bruno Andrade</div>
 </div>
 
 <div class="tier-section">

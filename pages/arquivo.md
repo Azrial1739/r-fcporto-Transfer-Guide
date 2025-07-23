@@ -73,6 +73,46 @@ menu_title: Arquivo
         </td>
       </tr>
     </tbody>
+    <tbody>
+      <tr>
+        <td>🟡 Oscar Gloukh</td>
+        <td>17/06</td>
+        <td>
+          <a href="https://x.com/Santi_J_FM/status/1935009922413887763" target="_blank" style="color: #ccc; text-decoration: underline;">Santi Aouna</a>
+        </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>✅ Richard Ríos</td>
+        <td>09/07</td>
+        <td>
+          <a href="https://www.ojogo.pt/8143452045/richard-rios-foi-equacionado-mas-e-carta-fora-do-baralho-do-fc-porto/" target="_blank" style="color: #ccc; text-decoration: underline;">O Jogo</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="arquivo-section">
+  <h3>Referenciados</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Jogador</th>
+        <th>Data</th>
+        <th>Fonte</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>🟠 Jordan Barrera</td>
+        <td>22/04</td>
+        <td>
+          <a href="https://x.com/gVitale_AN/status/1914669214385795291" target="_blank" style="color: #ccc; text-decoration: underline;">Gianluca Vitale</a>
+        </td>
+      </tr>
+    </tbody>
   </table>
 </div>
 

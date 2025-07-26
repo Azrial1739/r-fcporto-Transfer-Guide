@@ -58,7 +58,8 @@ permalink: /historico/
 <div class="season-section">
   <h3 class="season-title">Época 2025/26</h3>
   <div class="links-container">
-    <a href="https://www.reddit.com/r/fcporto/comments/1kp1w1l/megathread_mercado_de_transferências_verão_202526/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank" class="historico-link">Mercado Verão</a>
+    <a href="https://www.reddit.com/r/fcporto/comments/1kp1w1l/megathread_mercado_de_transferências_verão_202526/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank" class="historico-link">Mercado Verão (deleted)</a>
+    <a href="https://www.reddit.com/r/fcporto/comments/1m8g778/mt_revival_transfers_de_verão_silly_season/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank" class="historico-link">Mercado Verão (Revival)</a>
   </div>
 </div>
 

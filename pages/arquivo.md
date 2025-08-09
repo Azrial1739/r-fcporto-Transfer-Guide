@@ -136,7 +136,7 @@ menu_title: Arquivo
         <td>✅ Javi Guerra</td>
         <td>12/07</td>
         <td>
-          <a href="https://www.ojogo.pt/6424073661/javi-guerra-no-radar-do-fc-porto-desde-o-mercado-de-janeiro/#iss=https%3A%2F%2Fsso.noticiasilimitadas.pt%2Frealms%2FNI_PRD&iss=https%3A%2F%2Fsso.noticiasilimitadas.pt%2Frealms%2FNI_PRD">O Jogo</a>
+          <a href="https://www.ojogo.pt/6424073661/javi-guerra-no-radar-do-fc-porto-desde-o-mercado-de-janeiro/#iss=https%3A%2F%2Fsso.noticiasilimitadas.pt%2Frealms%2FNI_PRD&iss=https%3A%2F%2Fsso.noticiasilimitadas.pt%2Frealms%2FNI_PRD" target="_blank" style="color: #ccc; text-decoration: underline;">O Jogo</a>
         </td>
       </tr>
     </tbody>

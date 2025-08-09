@@ -91,6 +91,24 @@ menu_title: Arquivo
         </td>
       </tr>
     </tbody>
+    <tbody>
+      <tr>
+        <td>🟡 Vitor Reis</td>
+        <td>30/07</td>
+        <td>
+          <a href="https://x.com/andrehernan/status/1950556368043450700" target="_blank" style="color: #ccc; text-decoration: underline;">André Hernan</a>
+        </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>❔ Rubens</td>
+        <td>31/07</td>
+        <td>
+          <a href="https://www.folhape.com.br/esportes/rubens-e-anunciado-no-dinamo-de-moscou/428249/" target="_blank" style="color: #ccc; text-decoration: underline;">Folha PE</a>
+        </td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
@@ -110,6 +128,59 @@ menu_title: Arquivo
         <td>22/04</td>
         <td>
           <a href="https://x.com/gVitale_AN/status/1914669214385795291" target="_blank" style="color: #ccc; text-decoration: underline;">Gianluca Vitale</a>
+        </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>✅ Javi Guerra</td>
+        <td>12/07</td>
+        <td>
+          <a href="https://www.ojogo.pt/6424073661/javi-guerra-no-radar-do-fc-porto-desde-o-mercado-de-janeiro/#iss=https%3A%2F%2Fsso.noticiasilimitadas.pt%2Frealms%2FNI_PRD&iss=https%3A%2F%2Fsso.noticiasilimitadas.pt%2Frealms%2FNI_PRD">O Jogo</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="arquivo-section">
+  <h3>Sondagens</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Jogador</th>
+        <th>Data</th>
+        <th>Fonte</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>🟠 Serginho</td>
+        <td>11/06</td>
+        <td>
+          <a href="https://x.com/sebsousapinto/status/1932920706687258940" target="_blank" style="color: #ccc; text-decoration: underline;">Sebastião S. Pinto</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="arquivo-section">
+  <h3>Oferecidos</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Jogador</th>
+        <th>Data</th>
+        <th>Fonte</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>✅ Bryan Zaragoza</td>
+        <td>26/07</td>
+        <td>
+          <a href="https://www.ojogo.pt/1033214141/kevin-lomonaco-e-bryan-zaragoza-foram-colocados-na-orbita-do-fc-porto" target="_blank" style="color: #ccc; text-decoration: underline;">O Jogo</a>
         </td>
       </tr>
     </tbody>
@@ -166,8 +237,8 @@ menu_title: Arquivo
       </tr>
       <tr>
         <td>❔ Raúl Moro</td>
-        <td>15/07</td>
-        <td><a href="https://www.zerozero.pt/noticias/da-despromocao-em-espanha-a-liga-dos-campeoes-raul-moro-assina-pelo-ajax/863862" target="_blank" style="color: #ccc; text-decoration: underline;">ZeroZero</a></td>
+        <td>10/07</td>
+        <td><a href="https://www.flashscore.pt/noticias/futebol-eredivisie-farioli-tentou-desviar-raul-moro-para-o-fc-porto/p4r3m5N5/" target="_blank" style="color: #ccc; text-decoration: underline;">ZeroZero</a></td>
       </tr>
     </tbody>
   </table>
@@ -198,6 +269,15 @@ menu_title: Arquivo
         <td>09/07</td>
         <td>
           <a href="https://www.ojogo.pt/4581665436/henderson-fora-do-radar-do-fc-porto-vai-voltar-a-premier-league/" target="_blank" style="color: #ccc; text-decoration: underline;">O Jogo</a>
+        </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>Nelson Deossa</td>
+        <td>09/07</td>
+        <td>
+          <a href="https://www.ojogo.pt/7371341679/nelson-deossa-foi-associado-ao-fc-porto-mas-esta-fora-dos-planos/" target="_blank" style="color: #ccc; text-decoration: underline;">O Jogo</a>
         </td>
       </tr>
     </tbody>

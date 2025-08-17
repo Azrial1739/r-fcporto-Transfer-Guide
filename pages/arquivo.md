@@ -66,6 +66,33 @@ menu_title: Arquivo
     </thead>
     <tbody>
       <tr>
+        <td>✅ Ben Doak</td>
+        <td>15/08</td>
+        <td>
+          <a href="https://x.com/FabrizioRomano/status/1956341618857984062" target="_blank" style="color: #ccc; text-decoration: underline;">Fabrizio Romano</a>
+        </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>🟡 Vitor Reis</td>
+        <td>30/07</td>
+        <td>
+          <a href="https://x.com/andrehernan/status/1950556368043450700" target="_blank" style="color: #ccc; text-decoration: underline;">André Hernan</a>
+        </td>
+      </tr>
+    </tbody>
+        <tbody>
+      <tr>
+        <td>❔ Rubens</td>
+        <td>31/07</td>
+        <td>
+          <a href="https://www.folhape.com.br/esportes/rubens-e-anunciado-no-dinamo-de-moscou/428249/" target="_blank" style="color: #ccc; text-decoration: underline;">Folha PE</a>
+        </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
         <td>✅ Barrenechea</td>
         <td>13/07</td>
         <td>
@@ -91,24 +118,6 @@ menu_title: Arquivo
         </td>
       </tr>
     </tbody>
-    <tbody>
-      <tr>
-        <td>🟡 Vitor Reis</td>
-        <td>30/07</td>
-        <td>
-          <a href="https://x.com/andrehernan/status/1950556368043450700" target="_blank" style="color: #ccc; text-decoration: underline;">André Hernan</a>
-        </td>
-      </tr>
-    </tbody>
-    <tbody>
-      <tr>
-        <td>❔ Rubens</td>
-        <td>31/07</td>
-        <td>
-          <a href="https://www.folhape.com.br/esportes/rubens-e-anunciado-no-dinamo-de-moscou/428249/" target="_blank" style="color: #ccc; text-decoration: underline;">Folha PE</a>
-        </td>
-      </tr>
-    </tbody>
   </table>
 </div>
 
@@ -124,19 +133,19 @@ menu_title: Arquivo
     </thead>
     <tbody>
       <tr>
-        <td>🟠 Jordan Barrera</td>
-        <td>22/04</td>
+        <td>✅ Javi Guerra</td>
+        <td>12/07</td>
         <td>
-          <a href="https://x.com/gVitale_AN/status/1914669214385795291" target="_blank" style="color: #ccc; text-decoration: underline;">Gianluca Vitale</a>
+          <a href="https://www.ojogo.pt/6424073661/javi-guerra-no-radar-do-fc-porto-desde-o-mercado-de-janeiro/#iss=https%3A%2F%2Fsso.noticiasilimitadas.pt%2Frealms%2FNI_PRD&iss=https%3A%2F%2Fsso.noticiasilimitadas.pt%2Frealms%2FNI_PRD" target="_blank" style="color: #ccc; text-decoration: underline;">O Jogo</a>
         </td>
       </tr>
     </tbody>
     <tbody>
       <tr>
-        <td>✅ Javi Guerra</td>
-        <td>12/07</td>
+        <td>🟠 Jordan Barrera</td>
+        <td>22/04</td>
         <td>
-          <a href="https://www.ojogo.pt/6424073661/javi-guerra-no-radar-do-fc-porto-desde-o-mercado-de-janeiro/#iss=https%3A%2F%2Fsso.noticiasilimitadas.pt%2Frealms%2FNI_PRD&iss=https%3A%2F%2Fsso.noticiasilimitadas.pt%2Frealms%2FNI_PRD" target="_blank" style="color: #ccc; text-decoration: underline;">O Jogo</a>
+          <a href="https://x.com/gVitale_AN/status/1914669214385795291" target="_blank" style="color: #ccc; text-decoration: underline;">Gianluca Vitale</a>
         </td>
       </tr>
     </tbody>
@@ -153,6 +162,15 @@ menu_title: Arquivo
         <th>Fonte</th>
       </tr>
     </thead>
+    <tbody>
+      <tr>
+        <td>❔ Koni De Winter</td>
+        <td>16/03</td>
+        <td>
+          <a href="https://www.ojogo.pt/7423274845/fc-porto-estara-de-olho-em-koni-de-winter-mas-preco-nao-e-convidativo/" target="_blank" style="color: #ccc; text-decoration: underline;"> Tuttomercato</a>
+        </td>
+      </tr>
+    </tbody>
     <tbody>
       <tr>
         <td>🟠 Serginho</td>
@@ -221,24 +239,24 @@ menu_title: Arquivo
     </thead>
     <tbody>
       <tr>
-        <td>✅ Ibrahim Maza</td>
-        <td>21/04</td>
-        <td><a href="https://x.com/PortoReport/status/1914442663857979839" target="_blank" style="color: #ccc; text-decoration: underline;">Plettigoal</a></td>
-      </tr>
-      <tr>
-        <td>✅ CJ Egan-Riley</td>
-        <td>13/06</td>
-        <td><a href="https://x.com/FabriceHawkins/status/1933423630660059636" target="_blank" style="color: #ccc; text-decoration: underline;">Fabrice Hawkins</a></td>
+        <td>❔ Raúl Moro</td>
+        <td>10/07</td>
+        <td><a href="https://www.flashscore.pt/noticias/futebol-eredivisie-farioli-tentou-desviar-raul-moro-para-o-fc-porto/p4r3m5N5/" target="_blank" style="color: #ccc; text-decoration: underline;">ZeroZero</a></td>
       </tr>
       <tr>
         <td>✅ Roony Bardghji</td>
         <td>23/06</td>
         <td><a href="https://www.tipsbladet.dk/nyhed/superliga/afsloering-fc-koebenhavn-saelger-roony-til-barcelona" target="_blank" style="color: #ccc; text-decoration: underline;">Farzam Abolhosseini</a></td>
       </tr>
+        <tr>
+        <td>✅ CJ Egan-Riley</td>
+        <td>13/06</td>
+        <td><a href="https://x.com/FabriceHawkins/status/1933423630660059636" target="_blank" style="color: #ccc; text-decoration: underline;">Fabrice Hawkins</a></td>
+      </tr>
       <tr>
-        <td>❔ Raúl Moro</td>
-        <td>10/07</td>
-        <td><a href="https://www.flashscore.pt/noticias/futebol-eredivisie-farioli-tentou-desviar-raul-moro-para-o-fc-porto/p4r3m5N5/" target="_blank" style="color: #ccc; text-decoration: underline;">ZeroZero</a></td>
+        <td>✅ Ibrahim Maza</td>
+        <td>21/04</td>
+        <td><a href="https://x.com/PortoReport/status/1914442663857979839" target="_blank" style="color: #ccc; text-decoration: underline;">Plettigoal</a></td>
       </tr>
     </tbody>
   </table>
@@ -256,10 +274,10 @@ menu_title: Arquivo
     </thead>
     <tbody>
       <tr>
-        <td>Antoñito Cordero</td>
-        <td>14/03</td>
+        <td>Nelson Deossa</td>
+        <td>09/07</td>
         <td>
-          <a href="https://www.ojogo.pt/6684610536/suposto-interesse-do-fc-porto-em-antonio-cordero-noticiado-em-espanha" target="_blank" style="color: #ccc; text-decoration: underline;">O Jogo</a>
+          <a href="https://www.ojogo.pt/7371341679/nelson-deossa-foi-associado-ao-fc-porto-mas-esta-fora-dos-planos/" target="_blank" style="color: #ccc; text-decoration: underline;">O Jogo</a>
         </td>
       </tr>
     </tbody>
@@ -274,10 +292,10 @@ menu_title: Arquivo
     </tbody>
     <tbody>
       <tr>
-        <td>Nelson Deossa</td>
-        <td>09/07</td>
+        <td>Antoñito Cordero</td>
+        <td>14/03</td>
         <td>
-          <a href="https://www.ojogo.pt/7371341679/nelson-deossa-foi-associado-ao-fc-porto-mas-esta-fora-dos-planos/" target="_blank" style="color: #ccc; text-decoration: underline;">O Jogo</a>
+          <a href="https://www.ojogo.pt/6684610536/suposto-interesse-do-fc-porto-em-antonio-cordero-noticiado-em-espanha" target="_blank" style="color: #ccc; text-decoration: underline;">O Jogo</a>
         </td>
       </tr>
     </tbody>

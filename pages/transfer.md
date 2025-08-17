@@ -96,7 +96,7 @@ menu_title: transfer
 
 <div class="tier-section">
   <div class="tier-header">Tier 5</div>
-  <div class="tier-content centered">CMTV, Now Canal, Vítor Pinto, Nuno Farinha, Pedro Sepúlveda</div>
+  <div class="tier-content centered">CMTV, Vítor Pinto, Nuno Farinha, Pedro Sepúlveda</div>
 </div>
 
 <div class="tier-section">
@@ -112,7 +112,8 @@ menu_title: transfer
     <div><strong>Colômbia:</strong> Pipe Sierra</div>
     <div><strong>Suécia:</strong> Daniel Kristoffersson</div>
     <div><strong>Dinamarca:</strong> Farzam Abolhosseini</div>
-    <div><strong>Países Baixos:</strong> Lentin Goodijk</div>
+    <div><strong>Países Baixos:</strong> Lentin Goodijk, Joost Blaauwhof</div>
+    <div><strong>Polónia:</strong> Tomasz Włodarczyk</div>
   </div>
 </div>
 

@@ -93,15 +93,6 @@ menu_title: Arquivo
     </tbody>
     <tbody>
       <tr>
-        <td>✅ Ben Doak</td>
-        <td>15/08</td>
-        <td>
-          <a href="https://x.com/FabrizioRomano/status/1956341618857984062" target="_blank" style="color: #ccc; text-decoration: underline;">Fabrizio Romano</a>
-        </td>
-      </tr>
-    </tbody>
-    <tbody>
-      <tr>
         <td>🟡 Vitor Reis</td>
         <td>30/07</td>
         <td>

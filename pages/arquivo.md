@@ -66,6 +66,33 @@ menu_title: Arquivo
     </thead>
     <tbody>
       <tr>
+        <td>🟠 Tyler Dibling</td>
+        <td>15/06</td>
+        <td>
+          <a href="https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/fc-porto-em-cima-de-tyler-dibling" target="_blank" style="color: #ccc; text-decoration: underline;">Record</a>
+        </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>🟠 Edson Álvarez</td>
+        <td>19/08</td>
+        <td>
+          <a href="https://x.com/yagosabuncuoglu/status/1957774348846264500" target="_blank" style="color: #ccc; text-decoration: underline;">Yağız Sabuncuoğlu</a>
+        </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>✅ Ben Doak</td>
+        <td>15/08</td>
+        <td>
+          <a href="https://x.com/FabrizioRomano/status/1956341618857984062" target="_blank" style="color: #ccc; text-decoration: underline;">Fabrizio Romano</a>
+        </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
         <td>✅ Ben Doak</td>
         <td>15/08</td>
         <td>
@@ -162,6 +189,24 @@ menu_title: Arquivo
         <th>Fonte</th>
       </tr>
     </thead>
+    <tbody>
+      <tr>
+        <td>❔ Mariano Troilo</td>
+        <td>28/07</td>
+        <td>
+          <a href="https://x.com/impactodeport/status/1949853779563557363" target="_blank" style="color: #ccc; text-decoration: underline;"> Impacto Deportivo</a>
+        </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>✅ Julio Enciso</td>
+        <td>13/06</td>
+        <td>
+          <a href="https://www.ojogo.pt/6497029612/fc-porto-na-luta-por-julio-enciso-dragoes-acenam-lhe-com-o-protagonismo-perdido/" target="_blank" style="color: #ccc; text-decoration: underline;"> Tuttomercato</a>
+        </td>
+      </tr>
+    </tbody>
     <tbody>
       <tr>
         <td>❔ Koni De Winter</td>

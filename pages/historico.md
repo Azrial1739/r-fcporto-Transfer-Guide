@@ -60,6 +60,7 @@ permalink: /historico/
   <div class="links-container">
     <a href="https://www.reddit.com/r/fcporto/comments/1kp1w1l/megathread_mercado_de_transferências_verão_202526/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank" class="historico-link">Mercado Verão (deleted)</a>
     <a href="https://www.reddit.com/r/fcporto/comments/1m8g778/mt_revival_transfers_de_verão_silly_season/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank" class="historico-link">Mercado Verão (Revival)</a>
+    <a href="{{ site.baseurl }}/arquivo/arquivo-2025-26/" target="_blank" class="historico-link">Arquivo</a>
   </div>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Arquivo
-permalink: /arquivo/
+title: Arquivo 2025/26
+permalink: /arquivo/arquivo-2025-26/
 menu_title: Arquivo
 ---
 

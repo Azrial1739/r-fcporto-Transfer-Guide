@@ -27,11 +27,17 @@ menu_title: transfer
     color: #fff;
   }
 
-  .tier-content {
-    font-size: 0.95rem;
-    color: #ccc;
-    line-height: 1.5;
-  }
+ .tier-content {
+  font-size: 0.95rem;
+  color: #ccc;
+  line-height: 1.5;
+  margin-top: 0.5rem;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+}
 
   .centered {
     text-align: center;
@@ -52,13 +58,14 @@ menu_title: transfer
     margin-top: 0.5rem;
   }
 
-  .banidos-list span {
-    background-color: rgba(255, 255, 255, 0.08);
-    padding: 0.3rem 0.6rem;
-    border-radius: 0.4rem;
-    font-size: 0.85rem;
-    color: #eee;
-  }
+  .tag {
+  background-color: rgba(255, 255, 255, 0.08);
+  padding: 0.3rem 0.6rem;
+  border-radius: 0.4rem;
+  font-size: 0.85rem;
+  color: #eee;
+  display: inline-block;
+}
 
   @media (max-width: 600px) {
     .outros-grid {
@@ -71,32 +78,65 @@ menu_title: transfer
 
 <div class="tier-section">
   <div class="tier-header">Tier 0</div>
-  <div class="tier-content centered">FC Porto, CMVM</div>
+  <div class="tier-content centered">
+    <span class="tag">FC Porto</span>
+    <span class="tag">CMVM</span>
+    </div>
 </div>
 
 <div class="tier-section">
   <div class="tier-header">Tier 1</div>
-  <div class="tier-content centered">PortoYouth, RTP</div>
+  <div class="tier-content centered">
+    <span class="tag">PortoYouth</span>
+    <span class="tag">RTP</span>
+  </div>
 </div>
 
 <div class="tier-section">
   <div class="tier-header">Tier 2</div>
-  <div class="tier-content centered">O Jogo, Mercado Azul, zerozero, SportTV, JN, Record</div>
+  <div class="tier-content centered">
+    <span class="tag">O Jogo</span>
+    <span class="tag">Mercado Azul</span>
+    <span class="tag">zerozero</span>
+    <span class="tag">SportTV</span>
+    <span class="tag">JN</span>
+    <span class="tag">Record</span>
+    </div>
 </div>
 
 <div class="tier-section">
   <div class="tier-header">Tier 3</div>
-  <div class="tier-content centered">Mais Futebol/CNN, SIC Notícias, Mais Exclusivo, Ben Fernandes Santos, Now Canal, Cabine Desportiva, A Bola</div>
+  <div class="tier-content centered">
+    <span class="tag">Mais Futebol/CNN</span>
+    <span class="tag">Record</span>
+    <span class="tag">SIC Notícias</span>
+    <span class="tag">Mais Exclusivo</span>
+    <span class="tag">Ben Fernandes Santos</span>
+    <span class="tag">Now Canal</span>
+    <span class="tag">Cabine Desportiva</span>
+    <span class="tag">A Bola</span>
+    </div>
 </div>
 
 <div class="tier-section">
   <div class="tier-header">Tier 4</div>
-  <div class="tier-content centered">José Manuel Ribeiro, Sebastião Sousa Pinto, Bruno Andrade</div>
+  <div class="tier-content centered">
+    <span class="tag">A Bola</span>
+    <span class="tag">José Manuel Ribeiro</span>
+    <span class="tag">Sebastião Sousa Pinto</span>
+    <span class="tag">Bruno Andrade</span>
+    </div>
 </div>
 
 <div class="tier-section">
   <div class="tier-header">Tier 5</div>
-  <div class="tier-content centered">CMTV, Vítor Pinto, Nuno Farinha, Pedro Sepúlveda</div>
+  <div class="tier-content centered">
+    <span class="tag">CMTV</span>
+    <span class="tag">Now Canal</span>
+    <span class="tag">Vítor Pinto</span>
+    <span class="tag">Nuno Farinha</span>
+    <span class="tag">Pedro Sepúlveda</span>
+    </div>
 </div>
 
 <div class="tier-section">
@@ -112,29 +152,28 @@ menu_title: transfer
     <div><strong>Colômbia:</strong> Pipe Sierra</div>
     <div><strong>Suécia:</strong> Daniel Kristoffersson</div>
     <div><strong>Dinamarca:</strong> Farzam Abolhosseini</div>
-    <div><strong>Países Baixos:</strong> Lentin Goodijk, Joost Blaauwhof</div>
-    <div><strong>Polónia:</strong> Tomasz Włodarczyk</div>
+    <div><strong>Países Baixos:</strong> Lentin Goodijk</div>
   </div>
 </div>
 
 <div class="tier-section">
   <div class="tier-header">❌ Banidos</div>
   <div class="tier-content banidos-list">
-    <span>Luís Pinto Coelho</span>
-    <span>Bola na Rede</span>
-    <span>Nicolò Schira</span>
-    <span>Rudy Galetti</span>
-    <span>EkremKONUR</span>
-    <span>Michael Rincón</span>
-    <span>Jorge das Transferências</span>
-    <span>MarktGatekeeper</span>
-    <span>Mercado1893</span>
-    <span>Info Azul&Branca</span>
-    <span>Perry das Transferências</span>
-    <span>Pedro Almeida</span>
-    <span>Sacha Tavolieri</span>
-    <span>invictus</span>
-    <span>Dragão de Berço</span>
-    <span>Rúben Fernandes</span>
+    <span class="tag">Luís Pinto Coelho</span>
+    <span class="tag">Bola na Rede</span>
+    <span class="tag">Nicolò Schira</span>
+    <span class="tag">Rudy Galetti</span>
+    <span class="tag">EkremKONUR</span>
+    <span class="tag">Michael Rincón</span>
+    <span class="tag">Jorge das Transferências</span>
+    <span class="tag">MarktGatekeeper</span>
+    <span class="tag">Mercado1893</span>
+    <span class="tag">Info Azul&Branca</span>
+    <span class="tag">Perry das Transferências</span>
+    <span class="tag">Pedro Almeida</span>
+    <span class="tag">Sacha Tavolieri</span>
+    <span class="tag">invictus</span>
+    <span class="tag">Dragão de Berço</span>
+    <span class="tag">Rúben Fernandes</span>
   </div>
 </div>

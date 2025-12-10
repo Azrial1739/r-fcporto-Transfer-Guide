@@ -130,7 +130,6 @@ menu_title: transfer
   <div class="tier-header">Tier 5</div>
   <div class="tier-content centered">
     <span class="tag">CMTV</span>
-    <span class="tag">Now Canal</span>
     <span class="tag">Vítor Pinto</span>
     <span class="tag">Nuno Farinha</span>
     <span class="tag">Pedro Sepúlveda</span>

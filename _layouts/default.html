@@ -107,11 +107,21 @@
       }
     }
   </style>
+
+  <meta property="og:title" content="{{ page.title | default: site.title }}" />
+  <meta property="og:description" content="r/fcporto Transfer Guide" />
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" />
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+  <meta name="twitter:card" content="summary_large_image" />
 </head>
 <body>
   <header class="banner">
     <div class="banner-overlay"></div>
-    <h1 class="banner-text">{{ page.title | default: site.title }}</h1>
+    <h1 class="banner-text">
+  <a href="{{ site.baseurl }}/" style="text-decoration: none; color: white;">
+    {{ page.title | default: site.title }}
+  </a>
+</h1>
   </header>
 
   <main>

@@ -28,36 +28,11 @@ menu_title: Sobre
     padding-bottom: 0.4rem;
   }
 
-  .table-wrapper {
-    overflow-x: auto;
-  }
-
-  table.tiers {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 1rem;
-  }
-
-  table.tiers td {
-    padding: 0.6rem 1rem;
-    vertical-align: top;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    white-space: nowrap;
-  }
-
-  table.tiers td.tier-label {
-    color: #00bfff;
-    font-weight: 600;
-    width: 5rem;
-  }
-
-  table.tiers td.tier-title {
-    width: 15rem;
-  }
-
   p.footer-note {
-    font-size: 0.70rem;
+    font-size: 0.75rem;
     color: #888;
+    margin-top: 2rem;
+    line-height: 1.8;
   }
 
   p.footer-note a {
@@ -68,12 +43,6 @@ menu_title: Sobre
   p.footer-note a:hover {
     color: #00bfff;
   }
-
-  @media (max-width: 600px) {
-    table.tiers {
-      min-width: 500px;
-    }
-  }
 </style>
 
 <div class="content-box">
@@ -82,6 +51,10 @@ menu_title: Sobre
   <p>O r/fcporto Transfer Guide é uma plataforma colaborativa criada para clarificar a fiabilidade das notícias e rumores sobre transferências relacionados com o FC Porto, funcionando também como guia de apoio às MegaThreads dos mercados de transferências.<br><br>
   Este é um projeto voluntário, independente e sem fins lucrativos, da autoria do <a href="https://www.reddit.com/r/fcporto/" target="_blank" style="color: #ccc; text-decoration: underline;">r/fcporto</a>. Qualquer sugestão, correção ou contribuição é bem-vinda.</p>
 
-<p class="footer-note">
-  Licenciado sob a <a href="{{ site.baseurl }}/LICENSE" target="_blank">Licença MIT</a>.
-</p>
+  <p class="footer-note">
+    <span style="opacity: 0.9;">Última atualização: {{ site.time | date: "%d/%m/%Y" }}</span>
+    <br>
+    <span style="opacity: 0.6;">Licenciado sob a <a href="{{ site.baseurl }}/LICENSE" target="_blank">Licença MIT</a>.</span>
+  </p>
+
+</div>

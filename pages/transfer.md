@@ -108,7 +108,6 @@ menu_title: transfer
   <div class="tier-header">Tier 3</div>
   <div class="tier-content centered">
     <span class="tag">Mais Futebol/CNN</span>
-    <span class="tag">Record</span>
     <span class="tag">SIC Notícias</span>
     <span class="tag">Mais Exclusivo</span>
     <span class="tag">Ben Fernandes Santos</span>
@@ -121,7 +120,6 @@ menu_title: transfer
 <div class="tier-section">
   <div class="tier-header">Tier 4</div>
   <div class="tier-content centered">
-    <span class="tag">A Bola</span>
     <span class="tag">José Manuel Ribeiro</span>
     <span class="tag">Sebastião Sousa Pinto</span>
     <span class="tag">Bruno Andrade</span>

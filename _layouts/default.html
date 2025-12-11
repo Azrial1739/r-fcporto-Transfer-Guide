@@ -7,6 +7,8 @@
   <title>{{ page.title | default: site.title }}</title>
 
   <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet" />
+  
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png" />
 
   <style>
     body {
@@ -118,10 +120,10 @@
   <header class="banner">
     <div class="banner-overlay"></div>
     <h1 class="banner-text">
-  <a href="{{ site.baseurl }}/" style="text-decoration: none; color: white;">
-    {{ page.title | default: site.title }}
-  </a>
-</h1>
+      <a href="{{ site.baseurl }}/" style="text-decoration: none; color: white;">
+        {{ page.title | default: site.title }}
+      </a>
+    </h1>
   </header>
 
   <main>

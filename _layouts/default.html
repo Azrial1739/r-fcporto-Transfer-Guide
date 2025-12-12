@@ -49,6 +49,42 @@
       z-index: 1;
     }
 
+    .back-button {
+      position: absolute;
+      top: 1rem;
+      left: 1rem;
+      z-index: 10;
+      
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+      
+      background-color: rgba(0, 32, 64, 0.9);
+      color: #fff;
+      text-decoration: none;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      transition: all 0.2s;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    }
+
+    .back-button span {
+      font-size: 1.2rem;
+      line-height: 1;
+      padding-bottom: 2px;
+    }
+
+    .back-button:hover {
+      background-color: #00bfff;
+      color: #0a192f;
+      transform: scale(1.1);/
+      border-color: #00bfff;
+    }
+
     .banner-text {
       background-color: rgba(0, 32, 64, 0.8); 
       color: white;
@@ -102,6 +138,15 @@
         bottom: 0.5rem;
         padding: 0.3rem 0.6rem;
       }
+      .back-button {
+        top: 0.8rem;
+        left: 0.8rem;
+        width: 35px;
+        height: 35px;
+      }
+      .back-button span {
+        font-size: 1rem;
+      }
 
       .footer-banner {
         height: 120px;
@@ -119,11 +164,12 @@
 <body>
   <header class="banner">
     <div class="banner-overlay"></div>
-    <h1 class="banner-text">
-      <a href="{{ site.baseurl }}/" style="text-decoration: none; color: white;">
-        {{ page.title | default: site.title }}
-      </a>
-    </h1>
+    
+    <a href="{{ site.baseurl }}/" class="back-button" aria-label="Voltar ao Menu">
+      <span>&#8592;</span>
+    </a>
+
+    <h1 class="banner-text">{{ page.title | default: site.title }}</h1>
   </header>
 
   <main>

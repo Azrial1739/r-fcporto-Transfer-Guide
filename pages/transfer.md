@@ -170,5 +170,6 @@ menu_title: transfer
     <span class="tag">invictus</span>
     <span class="tag">Dragão de Berço</span>
     <span class="tag">Rúben Fernandes</span>
+    <span class="tag">Fichajes</span>
   </div>
 </div>
